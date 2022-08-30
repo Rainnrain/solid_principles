@@ -22,7 +22,8 @@ public class Calculator {
         if (operation.getType().equals(OperationType.DIVISION)) {
             System.out.println(num1 / num2);
         }
-
+// What happens if i want to add another operation later? %
+        // if
     }
 
 }
